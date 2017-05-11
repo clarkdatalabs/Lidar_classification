@@ -1,3 +1,1 @@
-# Lidar_classification
-
-Classifying 3-d objects (specifically, buildings) using LIDAR point cloud source data. 
+You can view the iPython Notebook file on Lidar Classification in [the GitHub repository](https://github.com/clarkdatalabs/Lidar_classification).
